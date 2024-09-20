@@ -65,4 +65,3 @@ Email: your.email@example.com
 LinkedIn: your-profile
 GitHub: your-github
 Thank you for visiting!
-theme: hacker
