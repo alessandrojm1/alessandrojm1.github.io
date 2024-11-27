@@ -2,17 +2,17 @@
 
 Welcome to my **Resume** and **Code Portfolio**! This repository showcases my journey, achievements, and projects as a computer scientist.
 
-## 📄 **Resume Overview**
+## 📄 **Professional Overview**
 
 ### 🌟 **Objective**
-A results-driven computer scientist with a strong background in software development, algorithms, and system architecture. I aspire to contribute innovative solutions that leverage cutting-edge technology and to continuously grow in a dynamic, collaborative environment.
+A results-driven computer scientist with a strong background in software development, algorithms, system architecture, and statistics. I aspire to contribute innovative solutions that leverage cutting-edge technology and to continuously grow in a dynamic, collaborative environment.
 
 ### 🛠 **Technical Skills**
 - **Languages**: Dart, Python, JavaScript, C++, R, Java, Matlab
 - **Frameworks & Tools**: Flutter, VS Code, Rstudio, Git, Spyder
 - **Cloud & DevOps**: AWS, Azure, Jenkins, Kubernetes
-- **Database Management**: MySQL, MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub, Bitbucket
+- **Database Management**: Firebase
+- **Version Control**: Git, GitHub
   
 ### 📚 **Education**
 - **Bachelor’s in Computer Science**  
@@ -60,12 +60,12 @@ To run any of the projects:
    
 2. Clone the desired project
 
-👥 How to contact me:
+## 👥 **How to contact me:**
 
 Feel free to connect with me to discuss projects, collaboration, or professional opportunities:
 
 - Email: alessandro061603@gmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/alessandromontenegro/
 - GitHub: alessandrojm1
 
 - *Thank you for visiting!*
