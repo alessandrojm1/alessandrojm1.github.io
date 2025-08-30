@@ -2412,7 +2412,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 280px;
 			border-radius: 0 !important;   /* remove circular mask */
   			/*overflow: visible !important;  /* stop clipping the img into a circle */
 			border: 8px solid #3498db;      /* change border color + thickness */
@@ -2421,10 +2421,10 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				border-radius: 0 !important;
+				border-radius: 0;
   				width: 100%;
-  				height: 240px;
-  				object-fit: scale-down;
+  				height: 280px;
+  				object-fit: fill;
 
 				/*box-shadow: none !important;   /* remove ring/shadow */
   				/*border: none !important;*/
